@@ -1,0 +1,175 @@
+Model,MAE,RMSE,Category,Commodity
+Holt-Winters,10.365787459548189,14.305516112061659,Beans and Legumes,Habitchuelas [Snap beans]
+AutoARIMA,14.22619696650703,17.269733231524114,Beans and Legumes,Habitchuelas [Snap beans]
+Seasonal Naive,14.907222222222222,18.74362424932809,Beans and Legumes,Habitchuelas [Snap beans]
+AutoARIMA,6.016315865961306,10.862019927298848,Beans and Legumes,"Mongo [Mungbean], green, labo"
+Seasonal Naive,6.415277777777779,10.078666550910613,Beans and Legumes,"Mongo [Mungbean], green, labo"
+Holt-Winters,7.41250999268071,12.73819220721994,Beans and Legumes,"Mongo [Mungbean], green, labo"
+Holt-Winters,5.971683545766781,8.459932280184649,Beans and Legumes,"Mongo [Mungbean], green, shiny"
+AutoARIMA,6.898563551105003,9.235795989219868,Beans and Legumes,"Mongo [Mungbean], green, shiny"
+Seasonal Naive,7.453055555555557,9.456453263953318,Beans and Legumes,"Mongo [Mungbean], green, shiny"
+AutoARIMA,10.522378553421595,13.389550676368945,Beans and Legumes,"Mongo [Mungbean], yellow, shiny"
+Holt-Winters,12.891720868358364,16.846387434202235,Beans and Legumes,"Mongo [Mungbean], yellow, shiny"
+Seasonal Naive,14.776083333333334,19.9261182489772,Beans and Legumes,"Mongo [Mungbean], yellow, shiny"
+Holt-Winters,10.020911269828337,14.228669615878172,Beans and Legumes,"Peanut, with shell, dry"
+AutoARIMA,10.076503954069857,14.738102457036138,Beans and Legumes,"Peanut, with shell, dry"
+Seasonal Naive,11.691666666666665,15.100905969878468,Beans and Legumes,"Peanut, with shell, dry"
+AutoARIMA,9.767137864495405,13.458054972116981,Beans and Legumes,"Peanut, with shell, fresh"
+Holt-Winters,11.338312755531652,15.623981809045256,Beans and Legumes,"Peanut, with shell, fresh"
+Seasonal Naive,13.081666666666665,15.93917059871686,Beans and Legumes,"Peanut, with shell, fresh"
+Holt-Winters,4.430073658638782,6.096591578896063,Beans and Legumes,Sitao [Stringbeans]
+AutoARIMA,4.663857692027715,6.724862104799039,Beans and Legumes,Sitao [Stringbeans]
+Seasonal Naive,6.379722222222223,7.941604406891315,Beans and Legumes,Sitao [Stringbeans]
+Holt-Winters,37.94897578813897,48.79746271137845,Beans and Legumes,"Sweet peas, Baguio (Chinese)"
+Seasonal Naive,46.5215,60.3929894696672,Beans and Legumes,"Sweet peas, Baguio (Chinese)"
+AutoARIMA,61.40488289098233,78.57984181736893,Beans and Legumes,"Sweet peas, Baguio (Chinese)"
+AutoARIMA,2.2133391322649563,3.2170004283800098,Cereals,"Corngrain [Maize] White, matured"
+Holt-Winters,2.334706374906004,3.365320226766764,Cereals,"Corngrain [Maize] White, matured"
+Seasonal Naive,4.720555555555556,5.4109210552979485,Cereals,"Corngrain [Maize] White, matured"
+Holt-Winters,1.1651421574218501,1.457700020000521,Cereals,"Corngrain [Maize] Yellow, matured"
+AutoARIMA,1.2075000000000002,1.6251384556400115,Cereals,"Corngrain [Maize] Yellow, matured"
+Seasonal Naive,2.106666666666667,2.446100070633979,Cereals,"Corngrain [Maize] Yellow, matured"
+AutoARIMA,4.970625683567197,6.281745243031739,Cereals,"Green Corn (Maize, green), White"
+Holt-Winters,5.275537105449957,6.787767464555002,Cereals,"Green Corn (Maize, green), White"
+Seasonal Naive,5.290416666666666,6.736954652223147,Cereals,"Green Corn (Maize, green), White"
+Holt-Winters,2.115522727792809,2.6534527125832534,Cereals,"Palay [Paddy] Other Variety, dry (conv. to 14% mc)"
+AutoARIMA,2.1497226761297537,2.769550315120996,Cereals,"Palay [Paddy] Other Variety, dry (conv. to 14% mc)"
+Seasonal Naive,4.478888888888888,4.968085367847681,Cereals,"Palay [Paddy] Other Variety, dry (conv. to 14% mc)"
+Holt-Winters,25.4695594630376,32.775479313577186,Condiments,Chili pepper fruit (Siling labuyo)
+AutoARIMA,27.13763924818201,35.78279653122041,Condiments,Chili pepper fruit (Siling labuyo)
+Seasonal Naive,38.971388888888896,48.23387361480403,Condiments,Chili pepper fruit (Siling labuyo)
+Seasonal Naive,31.425249999999995,38.3984705515004,Condiments,"Garlic, dried bulb"
+Holt-Winters,31.65228248214616,36.301444641139064,Condiments,"Garlic, dried bulb"
+AutoARIMA,34.266345041870714,38.7210257154542,Condiments,"Garlic, dried bulb"
+Holt-Winters,11.852696993703043,15.076463858073586,Condiments,"Ginger, Hawaiian"
+AutoARIMA,16.53501135181641,22.144669787266896,Condiments,"Ginger, Hawaiian"
+Seasonal Naive,19.2125,25.74557345987418,Condiments,"Ginger, Hawaiian"
+AutoARIMA,10.51138888888889,13.817600189613245,Condiments,"Ginger, Native"
+Holt-Winters,10.712333293535709,13.635963418240967,Condiments,"Ginger, Native"
+Seasonal Naive,15.633888888888885,21.231184218816747,Condiments,"Ginger, Native"
+Holt-Winters,8.724371011556093,11.566477172580042,Condiments,Onion Leeks
+AutoARIMA,9.840045333604666,12.842708671022011,Condiments,Onion Leeks
+Seasonal Naive,12.352222222222222,14.71344604246213,Condiments,Onion Leeks
+AutoARIMA,17.69010861787163,25.512114182098717,Condiments,"Onion, red shallot (Sibuyas Tagalog)"
+Holt-Winters,23.450016637129693,34.65064685348618,Condiments,"Onion, red shallot (Sibuyas Tagalog)"
+Seasonal Naive,26.18416666666667,33.36011211845001,Condiments,"Onion, red shallot (Sibuyas Tagalog)"
+Seasonal Naive,68.83324074074075,93.74555464357816,Condiments,Paminta [Black pepper]
+Holt-Winters,78.47413962712402,102.29351166325108,Condiments,Paminta [Black pepper]
+AutoARIMA,79.37146387034137,101.43102341331353,Condiments,Paminta [Black pepper]
+Holt-Winters,27.383724846210384,49.77763240599054,Condiments,"Pepper, bell"
+AutoARIMA,27.744590743486246,50.56674387231331,Condiments,"Pepper, bell"
+Seasonal Naive,32.910555555555554,55.746376713349434,Condiments,"Pepper, bell"
+AutoARIMA,13.378156971802165,17.334620711265874,Condiments,"Pepper, finger"
+Seasonal Naive,17.705555555555556,22.268703998611546,Condiments,"Pepper, finger"
+Holt-Winters,18.676909145906162,23.07960053693982,Condiments,"Pepper, finger"
+AutoARIMA,9.712625622874363,13.28888034865694,Condiments,Spring onion
+Holt-Winters,10.172551743199849,13.222752511221222,Condiments,Spring onion
+Seasonal Naive,17.71166666666667,23.47850754768426,Condiments,Spring onion
+Seasonal Naive,8.048055555555557,10.419689561381162,Fruit Vegetables,Ampalaya fruit [Bitter gourd]
+AutoARIMA,8.777136239074625,11.94378906291087,Fruit Vegetables,Ampalaya fruit [Bitter gourd]
+Holt-Winters,8.802763856393339,12.861734473380258,Fruit Vegetables,Ampalaya fruit [Bitter gourd]
+Holt-Winters,6.765716283893866,9.857164490403743,Fruit Vegetables,Cucumber
+AutoARIMA,7.049082342162444,9.405608173850032,Fruit Vegetables,Cucumber
+Seasonal Naive,9.9675,13.02794208614699,Fruit Vegetables,Cucumber
+Holt-Winters,4.201439579969944,5.938586819491362,Fruit Vegetables,"Eggplant, long, purple"
+AutoARIMA,4.7924012275163514,6.680026671428419,Fruit Vegetables,"Eggplant, long, purple"
+Seasonal Naive,5.582222222222221,7.125168224134937,Fruit Vegetables,"Eggplant, long, purple"
+AutoARIMA,8.94647181487937,12.170896281559362,Fruit Vegetables,"Eggplant, native, round"
+Holt-Winters,12.165944858503584,14.747776184510142,Fruit Vegetables,"Eggplant, native, round"
+Seasonal Naive,13.990277777777779,17.338819083842537,Fruit Vegetables,"Eggplant, native, round"
+AutoARIMA,3.739999700745767,5.420385889956821,Fruit Vegetables,Okra [Lady's finger]
+Seasonal Naive,4.8950000000000005,5.642708667928117,Fruit Vegetables,Okra [Lady's finger]
+Holt-Winters,6.579692804744116,9.395386143739053,Fruit Vegetables,Okra [Lady's finger]
+Holt-Winters,2.912794707754467,5.601729398573985,Fruit Vegetables,"Papaya, green"
+AutoARIMA,3.115313123431837,5.4729524941516985,Fruit Vegetables,"Papaya, green"
+Seasonal Naive,4.259444444444444,5.851051662355713,Fruit Vegetables,"Papaya, green"
+Holt-Winters,3.4761065110424774,4.473219973649048,Fruit Vegetables,Squash fruit
+Seasonal Naive,4.2508333333333335,5.543558073215352,Fruit Vegetables,Squash fruit
+AutoARIMA,4.263001649819361,5.669148457037511,Fruit Vegetables,Squash fruit
+AutoARIMA,9.177832266340337,11.999831947504873,Fruit Vegetables,Tomato
+Holt-Winters,10.353287195916346,13.673056362887081,Fruit Vegetables,Tomato
+Seasonal Naive,12.846944444444446,15.353767995728823,Fruit Vegetables,Tomato
+Holt-Winters,2.5540206937486065,3.8071938598920236,Fruit Vegetables,Upo [Bottle gourd]
+AutoARIMA,2.6077474217833956,4.029512343859292,Fruit Vegetables,Upo [Bottle gourd]
+Seasonal Naive,3.7108333333333334,5.110416106128519,Fruit Vegetables,Upo [Bottle gourd]
+Holt-Winters,2.3876508675631283,3.2918727053690735,Fruits,"Banana Bungulan, green"
+AutoARIMA,2.418562906838034,3.317027392927128,Fruits,"Banana Bungulan, green"
+Seasonal Naive,2.5880555555555556,3.4753756791332804,Fruits,"Banana Bungulan, green"
+AutoARIMA,2.3866861251710856,3.4180393414344135,Fruits,"Banana Lakatan, green"
+Holt-Winters,2.6787265833055565,3.602239351798898,Fruits,"Banana Lakatan, green"
+Seasonal Naive,4.726111111111112,5.920702379504198,Fruits,"Banana Lakatan, green"
+AutoARIMA,1.3947382646656417,2.005705057393085,Fruits,"Banana Latundan, green"
+Holt-Winters,1.4256250902424987,1.9784965478636294,Fruits,"Banana Latundan, green"
+Seasonal Naive,1.9927777777777778,2.352863503619933,Fruits,"Banana Latundan, green"
+AutoARIMA,1.996263838498064,2.74369549488942,Fruits,"Banana Saba, green"
+Holt-Winters,2.187461033022967,3.3199588701745477,Fruits,"Banana Saba, green"
+Seasonal Naive,2.6958333333333333,3.7905192403035115,Fruits,"Banana Saba, green"
+Holt-Winters,5.5432427180070905,8.12723657774602,Fruits,Calamansi
+AutoARIMA,5.816707193086063,7.945834544542179,Fruits,Calamansi
+Seasonal Naive,6.4875,8.908329279699732,Fruits,Calamansi
+AutoARIMA,7.667432634181044,10.634111472859697,Fruits,Durian
+Holt-Winters,7.930245971005437,12.065078334520175,Fruits,Durian
+Seasonal Naive,8.647777777777778,12.211490035572599,Fruits,Durian
+Holt-Winters,5.508558282042645,7.701727456039823,Fruits,Guayabano [Soursop]
+AutoARIMA,6.152504040167725,8.378017136760029,Fruits,Guayabano [Soursop]
+Seasonal Naive,10.175277777777778,12.309632520013656,Fruits,Guayabano [Soursop]
+Holt-Winters,7.468509895013845,9.116405798562834,Fruits,"Mango Carabao, green"
+Seasonal Naive,9.853055555555557,12.100575169984461,Fruits,"Mango Carabao, green"
+AutoARIMA,10.911730480756658,13.607582555699858,Fruits,"Mango Carabao, green"
+Holt-Winters,5.170000758897715,6.968069550447711,Fruits,"Mango Indian, green"
+AutoARIMA,5.369763915828127,7.083734634947341,Fruits,"Mango Indian, green"
+Seasonal Naive,5.831388888888889,7.904002326529122,Fruits,"Mango Indian, green"
+AutoARIMA,3.901702213831119,5.338042162796719,Fruits,Pomelo
+Holt-Winters,4.395714902541136,6.013880284978784,Fruits,Pomelo
+Seasonal Naive,5.716944444444444,7.276263349641307,Fruits,Pomelo
+Holt-Winters,2.9778688616898887,4.258575357772786,Fruits,Watermelon
+AutoARIMA,3.343139622215467,4.2425388837886455,Fruits,Watermelon
+Seasonal Naive,4.0811111111111105,5.331955030234637,Fruits,Watermelon
+Holt-Winters,36.7227151882103,46.92495191216415,Leafy Vegetables,Broccoli
+AutoARIMA,40.14290908213162,48.03695185802534,Leafy Vegetables,Broccoli
+Seasonal Naive,42.86222222222222,61.14992277636625,Leafy Vegetables,Broccoli
+AutoARIMA,7.095278660144236,10.281647739282398,Leafy Vegetables,Cabbage
+Holt-Winters,7.100463445472305,9.435646755231328,Leafy Vegetables,Cabbage
+Seasonal Naive,8.50388888888889,10.768366222928671,Leafy Vegetables,Cabbage
+Holt-Winters,7.295331460231601,11.03870576473663,Leafy Vegetables,Camote tops
+AutoARIMA,7.580709748970843,11.239043619809772,Leafy Vegetables,Camote tops
+Seasonal Naive,9.131666666666666,12.416804473508204,Leafy Vegetables,Camote tops
+AutoARIMA,17.844148797176015,24.218410433942932,Leafy Vegetables,Cauliflower
+Holt-Winters,18.029764779648666,26.51336346524105,Leafy Vegetables,Cauliflower
+Seasonal Naive,26.52111111111111,31.616472939135875,Leafy Vegetables,Cauliflower
+Holt-Winters,17.190955720832278,22.380888844858827,Leafy Vegetables,Celery
+AutoARIMA,17.28618242168901,23.142083630781478,Leafy Vegetables,Celery
+Seasonal Naive,21.56638888888889,27.697506556447355,Leafy Vegetables,Celery
+AutoARIMA,11.265658088742564,14.928629549266347,Leafy Vegetables,"Chinese cabbage (Wongbok, Pechay Baguio)"
+Holt-Winters,13.143778097417822,16.261852654705965,Leafy Vegetables,"Chinese cabbage (Wongbok, Pechay Baguio)"
+Seasonal Naive,14.175277777777778,16.742933584052707,Leafy Vegetables,"Chinese cabbage (Wongbok, Pechay Baguio)"
+Holt-Winters,5.277757517772812,7.7097082434978566,Leafy Vegetables,"Gabi, leaves with stem"
+AutoARIMA,5.843041130094488,8.345692824344097,Leafy Vegetables,"Gabi, leaves with stem"
+Seasonal Naive,10.337222222222222,12.784767411954656,Leafy Vegetables,"Gabi, leaves with stem"
+AutoARIMA,6.8356257641852025,10.381950767862,Leafy Vegetables,Kangkong [Swamp cabbage]
+Holt-Winters,6.996854944142135,9.874537017612306,Leafy Vegetables,Kangkong [Swamp cabbage]
+Seasonal Naive,8.57,11.432030538020017,Leafy Vegetables,Kangkong [Swamp cabbage]
+Holt-Winters,42.729778996666546,60.47268021489515,Leafy Vegetables,Lettuce
+AutoARIMA,47.38873603795065,65.32610211648266,Leafy Vegetables,Lettuce
+Seasonal Naive,67.44333333333334,87.35243156317975,Leafy Vegetables,Lettuce
+AutoARIMA,6.160936264547321,10.993811209778297,Leafy Vegetables,"Pechay, native"
+Holt-Winters,6.341794679764912,10.950092631355794,Leafy Vegetables,"Pechay, native"
+Seasonal Naive,9.141944444444446,13.997228594737365,Leafy Vegetables,"Pechay, native"
+Holt-Winters,3.0557556553393255,4.6672919796713614,Rootcrops,Camote [Sweet potato]
+AutoARIMA,3.508086518503767,5.023620970511754,Rootcrops,Camote [Sweet potato]
+Seasonal Naive,4.230555555555555,5.111798444122512,Rootcrops,Camote [Sweet potato]
+Seasonal Naive,10.447222222222223,14.408053882001782,Rootcrops,Carrot
+AutoARIMA,12.395155190607971,16.053928066996328,Rootcrops,Carrot
+Holt-Winters,13.68029590928977,17.03928642206766,Rootcrops,Carrot
+Holt-Winters,4.52806262924732,6.603079978051837,Rootcrops,"Gabi for ginataan, Cebu [Taro]"
+AutoARIMA,5.27087578769074,7.615473048788464,Rootcrops,"Gabi for ginataan, Cebu [Taro]"
+Seasonal Naive,6.680555555555556,9.142399089468316,Rootcrops,"Gabi for ginataan, Cebu [Taro]"
+AutoARIMA,4.39486682389207,6.24406578414327,Rootcrops,"Gabi for sinigang, Tagalog [Taro]"
+Holt-Winters,4.544580794391227,6.487907999575821,Rootcrops,"Gabi for sinigang, Tagalog [Taro]"
+Seasonal Naive,4.625277777777778,6.493164568306513,Rootcrops,"Gabi for sinigang, Tagalog [Taro]"
+Holt-Winters,11.04765340999635,13.81536171936412,Rootcrops,Potato
+AutoARIMA,11.680003236706618,14.854325345056377,Rootcrops,Potato
+Seasonal Naive,20.065277777777776,24.288521809008195,Rootcrops,Potato
+Holt-Winters,7.093018179077688,8.91316823580322,Rootcrops,Radish
+AutoARIMA,7.268748767901511,9.160627011763605,Rootcrops,Radish
+Seasonal Naive,9.131388888888889,12.004807254688526,Rootcrops,Radish

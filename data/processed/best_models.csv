@@ -1,0 +1,59 @@
+Category,Commodity,Model,MAE,RMSE
+Cereals,"Corngrain [Maize] Yellow, matured",Holt-Winters,1.1651421574218501,1.457700020000521
+Fruits,"Banana Latundan, green",AutoARIMA,1.3947382646656417,2.005705057393085
+Fruits,"Banana Saba, green",AutoARIMA,1.996263838498064,2.74369549488942
+Cereals,"Palay [Paddy] Other Variety, dry (conv. to 14% mc)",Holt-Winters,2.115522727792809,2.6534527125832534
+Cereals,"Corngrain [Maize] White, matured",AutoARIMA,2.2133391322649563,3.2170004283800098
+Fruits,"Banana Lakatan, green",AutoARIMA,2.3866861251710856,3.4180393414344135
+Fruits,"Banana Bungulan, green",Holt-Winters,2.3876508675631283,3.2918727053690735
+Fruit Vegetables,Upo [Bottle gourd],Holt-Winters,2.5540206937486065,3.8071938598920236
+Fruit Vegetables,"Papaya, green",Holt-Winters,2.912794707754467,5.601729398573985
+Fruits,Watermelon,Holt-Winters,2.9778688616898887,4.258575357772786
+Rootcrops,Camote [Sweet potato],Holt-Winters,3.0557556553393255,4.6672919796713614
+Fruit Vegetables,Squash fruit,Holt-Winters,3.4761065110424774,4.473219973649048
+Fruit Vegetables,Okra [Lady's finger],AutoARIMA,3.739999700745767,5.420385889956821
+Fruits,Pomelo,AutoARIMA,3.901702213831119,5.338042162796719
+Fruit Vegetables,"Eggplant, long, purple",Holt-Winters,4.201439579969944,5.938586819491362
+Rootcrops,"Gabi for sinigang, Tagalog [Taro]",AutoARIMA,4.39486682389207,6.24406578414327
+Beans and Legumes,Sitao [Stringbeans],Holt-Winters,4.430073658638782,6.096591578896063
+Rootcrops,"Gabi for ginataan, Cebu [Taro]",Holt-Winters,4.52806262924732,6.603079978051837
+Cereals,"Green Corn (Maize, green), White",AutoARIMA,4.970625683567197,6.281745243031739
+Fruits,"Mango Indian, green",Holt-Winters,5.170000758897715,6.968069550447711
+Leafy Vegetables,"Gabi, leaves with stem",Holt-Winters,5.277757517772812,7.7097082434978566
+Fruits,Guayabano [Soursop],Holt-Winters,5.508558282042645,7.701727456039823
+Fruits,Calamansi,Holt-Winters,5.5432427180070905,8.12723657774602
+Beans and Legumes,"Mongo [Mungbean], green, shiny",Holt-Winters,5.971683545766781,8.459932280184649
+Beans and Legumes,"Mongo [Mungbean], green, labo",AutoARIMA,6.016315865961306,10.862019927298848
+Leafy Vegetables,"Pechay, native",AutoARIMA,6.160936264547321,10.993811209778297
+Fruit Vegetables,Cucumber,Holt-Winters,6.765716283893866,9.857164490403743
+Leafy Vegetables,Kangkong [Swamp cabbage],AutoARIMA,6.8356257641852025,10.381950767862
+Rootcrops,Radish,Holt-Winters,7.093018179077688,8.91316823580322
+Leafy Vegetables,Cabbage,AutoARIMA,7.095278660144236,10.281647739282398
+Leafy Vegetables,Camote tops,Holt-Winters,7.295331460231601,11.03870576473663
+Fruits,"Mango Carabao, green",Holt-Winters,7.468509895013845,9.116405798562834
+Fruits,Durian,AutoARIMA,7.667432634181044,10.634111472859697
+Fruit Vegetables,Ampalaya fruit [Bitter gourd],Seasonal Naive,8.048055555555557,10.419689561381162
+Condiments,Onion Leeks,Holt-Winters,8.724371011556093,11.566477172580042
+Fruit Vegetables,"Eggplant, native, round",AutoARIMA,8.94647181487937,12.170896281559362
+Fruit Vegetables,Tomato,AutoARIMA,9.177832266340337,11.999831947504873
+Condiments,Spring onion,AutoARIMA,9.712625622874363,13.28888034865694
+Beans and Legumes,"Peanut, with shell, fresh",AutoARIMA,9.767137864495405,13.458054972116981
+Beans and Legumes,"Peanut, with shell, dry",Holt-Winters,10.020911269828337,14.228669615878172
+Beans and Legumes,Habitchuelas [Snap beans],Holt-Winters,10.365787459548189,14.305516112061659
+Rootcrops,Carrot,Seasonal Naive,10.447222222222223,14.408053882001782
+Condiments,"Ginger, Native",AutoARIMA,10.51138888888889,13.817600189613245
+Beans and Legumes,"Mongo [Mungbean], yellow, shiny",AutoARIMA,10.522378553421595,13.389550676368945
+Rootcrops,Potato,Holt-Winters,11.04765340999635,13.81536171936412
+Leafy Vegetables,"Chinese cabbage (Wongbok, Pechay Baguio)",AutoARIMA,11.265658088742564,14.928629549266347
+Condiments,"Ginger, Hawaiian",Holt-Winters,11.852696993703043,15.076463858073586
+Condiments,"Pepper, finger",AutoARIMA,13.378156971802165,17.334620711265874
+Leafy Vegetables,Celery,Holt-Winters,17.190955720832278,22.380888844858827
+Condiments,"Onion, red shallot (Sibuyas Tagalog)",AutoARIMA,17.69010861787163,25.512114182098717
+Leafy Vegetables,Cauliflower,AutoARIMA,17.844148797176015,24.218410433942932
+Condiments,Chili pepper fruit (Siling labuyo),Holt-Winters,25.4695594630376,32.775479313577186
+Condiments,"Pepper, bell",Holt-Winters,27.383724846210384,49.77763240599054
+Condiments,"Garlic, dried bulb",Seasonal Naive,31.425249999999995,38.3984705515004
+Leafy Vegetables,Broccoli,Holt-Winters,36.7227151882103,46.92495191216415
+Beans and Legumes,"Sweet peas, Baguio (Chinese)",Holt-Winters,37.94897578813897,48.79746271137845
+Leafy Vegetables,Lettuce,Holt-Winters,42.729778996666546,60.47268021489515
+Condiments,Paminta [Black pepper],Seasonal Naive,68.83324074074075,93.74555464357816
